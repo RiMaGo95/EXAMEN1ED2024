@@ -4,7 +4,7 @@ public class MiClase1
     {
         for(int i = 0; i <= 10; i++)
         {
-            System.out.println(" ¡Hola, mundo!");
+            System.out.println(" ¿Como estas?");
         }
     }
 }
